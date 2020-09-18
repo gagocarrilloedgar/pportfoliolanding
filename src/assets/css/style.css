@@ -1082,8 +1082,8 @@ label {
   /* To display all elements above the background color */ }
 
 .hero-copy {
-  padding-top: 40px;
-  padding-bottom: 60px; }
+  padding-top: 0px;
+  padding-bottom: 0px; }
 
 .hero-title {
   font-weight: 700; }
